@@ -1,0 +1,9 @@
+1 - Configure a conexão do Mysql no arquivo "backend/conexaoMysql.php"
+1 - Crie o banco de dados e as tabelas usando os comandos do arquivo "banco de dados.sql"
+2 - Coloque as fotos dos seus alunos na pasta "backend/fotos" (recomendo fotos de tamanho 200x200 pixels)
+3 - Cadastre os nomes dos seus alunos e a foto dele acessando o arquivo "cadastraAluno.php"
+4 - Ao cadastrar o aluno, um link referente a avaliação do aluno é gerada. Para acessar o link, basta acessar o arguivo "gerencia.php" e ao clicar no link você será redirecionado para a avaliação do aluno. 
+	Caso você hospede o site em um dominio, esse link pode ser enviado para o supervisor, isso possibilita uma avaliação mais ágil.
+5 - Ao realizar uma avaliação, as notas constarão na pagina "gerencia.php", já com os calculos efetuados.
+
+Para quaisquer dúvidas referentes ao projeto existe esse repositório: https://github.com/CiroboyBR/Agiliza-Acomp-Estagio
